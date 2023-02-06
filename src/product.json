@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "title":"Cips",
+         "price":1,
+         "image":"https://cdn.dsmcdn.com/mnresize/500/-/ty61/product/media/images/20210122/13/56099521/22241353/1/1_org.jpg"
+    },
+    {
+        "id":2,
+        "title":"Kola",
+         "price":4,
+         "image":"https://www.incillikebap.com.tr/i/l/000/0000043_kutu-kola.jpeg"
+    },
+    {
+        "id":3,
+        "title":"Köfte",
+         "price":19,
+         "image":"https://www.sultanet.com/cdn/0/1024/a/images/urunler/6220ea9a8266b-34140-1.png"
+    },
+   {
+        "id":5,
+        "title":"Şampuan",
+         "price":12,
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWfIsPJ1t6YUWA8E3mMZExctctmwJi7Y39OQ&usqp=CAU"
+    }
+   
+    
+]
